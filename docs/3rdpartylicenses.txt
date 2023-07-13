@@ -10,6 +10,9 @@ MIT
 @angular/router
 MIT
 
+mapbox-gl
+SEE LICENSE IN LICENSE.txt
+
 rxjs
 Apache-2.0
                                Apache License
